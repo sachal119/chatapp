@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "960360954345",
+    "project_id": "technolochat",
+    "storage_bucket": "technolochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960360954345:android:795ba491221814c8ef7378",
+        "android_client_info": {
+          "package_name": "com.example.technolo_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960360954345-kk4mkluios3lllkb3v83hdmpi1vlr6oj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.technolo_chat",
+            "certificate_hash": "2339d6fac0d591a932928a64fb87065e39ad33da"
+          }
+        },
+        {
+          "client_id": "960360954345-83c8psfv7hpp2nkfrc6sj3n1l27j71jt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEy4hlfqECPj4svSZhDpo8b7DqjLBrCE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960360954345-83c8psfv7hpp2nkfrc6sj3n1l27j71jt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "960360954345-q0h9ube02a10gfid10o3aconvjmm7fhg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.technoloChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
